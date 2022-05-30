@@ -1,0 +1,13 @@
+{
+  "name": "hardhat-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hardhat.config.js",
+  "author": "mihailo-maksa",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.8"
+  }
+}
