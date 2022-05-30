@@ -5,7 +5,7 @@ module.exports = {
   solidity: '0.8.4',
   networks: {
     local: {
-      url: 'http://localhost:8545',
+      url: 'http://127.0.0.1:8545',
       accounts: [process.env.PRIVATE_KEY],
     },
     optimism_kovan: {
